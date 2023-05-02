@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(27, 27, 151);
+}
+
+h3{
+    color: white;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #9ed70e;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(95, 98, 187);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+
+}
+
+ol h5 {
+    background: rgb(65, 108, 153);
+    padding: 13px;
+    border-radius: 20px;
+}
+
+span {
+    color: orange;
+    font-size: 16px;
+}
+
+li img {
+    border-radius: 20px;
+}
+
+.bob {
+    background: rgb(68, 213, 68);
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18 rgb(124, 3, 194);
+}
+
+b {
+    color: rgb(205, 228, 25);
+}
+
+.bob3 {
+    text-align: center;
+    color: rgb(98, 30, 30);
+}
+
+.result {
+    box-shadow: 5px 5px 18px;
+    letter-spacing: 2px;
+    background: rgb(177, 131, 45);
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid rgb(39, 115, 39)
+}
